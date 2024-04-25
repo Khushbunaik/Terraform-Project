@@ -1,1 +1,1 @@
-this program is creat for creat ec2 instance in aws usimg terraform
+creat AWS ec2 instance usimg terraform
